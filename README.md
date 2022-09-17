@@ -1,6 +1,6 @@
 # DaQua-pulse-quality-prediction-model
 
-This is an automated smartphone-based pulse grain quality anaylsis.
+This is an automated smartphone-based pulse grain quality anaylsis using physical dimensions.
 
 ## About the project
 
@@ -26,3 +26,9 @@ In this project, we propose a smart technique for pulse quality analysis called 
 The flow used for pre-processing of data is described below-
 
 ![alt text](https://github.com/Subhanshu20101/DaQua-pulse-quality-prediction-model/blob/main/Images/flowchart_pre.png)
+
+### Feature Extraction
+We take into account the following physical characterstics- major axis, minor axis, MinbyMaj ratio, Eccentricity, and Grain Area. 
+
+### ML Model Execution
+Using AutoML's library EvalML we found the 
