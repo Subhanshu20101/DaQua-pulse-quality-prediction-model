@@ -31,4 +31,10 @@ The flow used for pre-processing of data is described below-
 We take into account the following physical characterstics- major axis, minor axis, MinbyMaj ratio, Eccentricity, and Grain Area. 
 
 ### ML Model Execution
-Using AutoML's library EvalML we found the 
+Using AutoML's library EvalML we found the Random Forest Regressor to be the best fit for our feature vector. It comes out to be 99 percent better than baseline model.
+
+### Implenting DaQua App
+We implemented the DaQua as a mobile-based application using the Flutter framework, as it works well with both Android and iOS.
+
+![alt text](https://github.com/Subhanshu20101/DaQua-pulse-quality-prediction-model/blob/main/Images/Screenshots%20of%20DaQua%20App.png)
+
