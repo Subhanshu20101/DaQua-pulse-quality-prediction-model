@@ -9,9 +9,9 @@ In this project, we propose a smart technique for pulse quality analysis called 
 
 ## Features
 
-Markup : * It uses smartphone as a sensor to collect image samples then perform image preprocessing along with feature engineering to extract relevant features.
+* It uses smartphone as a sensor to collect image samples then perform image preprocessing along with feature engineering to extract relevant features.
               
-         * The solution proposed has very efficiently used each contour present in the pulse sample as a data point henceforth increasing our data points by 20 times with each image. 
-         * On a test set of 14000 Data points, the model’s efficacy was about 96%, and on a real-life data set of 100 images, it was approximately 87%.
+* The solution proposed has very efficiently used each contour present in the pulse sample as a data point henceforth increasing our data points by 20 times with each image. 
+* On a test set of 14000 Data points, the model’s efficacy was about 96%, and on a real-life data set of 100 images, it was approximately 87%.
 ## Technology Stack
-Markup : * [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
