@@ -38,3 +38,11 @@ We implemented the DaQua as a mobile-based application using the Flutter framewo
 
 ![alt text](https://github.com/Subhanshu20101/DaQua-pulse-quality-prediction-model/blob/main/Images/Screenshots%20of%20DaQua%20App.png)
 
+## Some Results
+* Importance of each feature plotted using heat map
+ 
+![alt text](https://github.com/Subhanshu20101/DaQua-pulse-quality-prediction-model/blob/main/Images/featureimp.png)
+
+* Confusion matrix
+
+![alt text](https://github.com/Subhanshu20101/DaQua-pulse-quality-prediction-model/blob/main/Images/confusionMatrix.png)
