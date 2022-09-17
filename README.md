@@ -15,3 +15,9 @@ In this project, we propose a smart technique for pulse quality analysis called 
 * On a test set of 14000 Data points, the model’s efficacy was about 96%, and on a real-life data set of 100 images, it was approximately 87%.
 ## Technology Stack
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [Python 3.8.0](https://www.python.org/downloads/release/python-380/)
+* [OpenCV](https://opencv.org/)
+* [Flutter](https://flutter.dev/)
+* [Chaquopy](https://chaquo.com/chaquopy/)
+* [EvalML](https://evalml.alteryx.com/en/stable/#)
+* 
