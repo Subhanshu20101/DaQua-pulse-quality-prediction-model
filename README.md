@@ -20,7 +20,7 @@ In this project, we propose a smart technique for pulse quality analysis called 
 * [Flutter](https://flutter.dev/)
 * [Chaquopy](https://chaquo.com/chaquopy/)
 * [EvalML](https://evalml.alteryx.com/en/stable/#)
-* 
+
 ## Methodology
 ### Pre-processing
 The flow used for pre-processing of data is described below-
