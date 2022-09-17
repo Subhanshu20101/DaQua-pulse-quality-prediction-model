@@ -46,3 +46,7 @@ We implemented the DaQua as a mobile-based application using the Flutter framewo
 * Confusion matrix
 
 ![alt text](https://github.com/Subhanshu20101/DaQua-pulse-quality-prediction-model/blob/main/Images/confusionMatrix.png)
+
+## Contact
+
+Subhanshu Arya - subhanshu20101@iiitnr.edu.in
