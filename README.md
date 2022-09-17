@@ -24,4 +24,5 @@ In this project, we propose a smart technique for pulse quality analysis called 
 ## Methodology
 ### Pre-processing
 The flow used for pre-processing of data is described below-
+
 ![alt text](https://github.com/Subhanshu20101/DaQua-pulse-quality-prediction-model/blob/main/Images/flowchart_pre.png)
