@@ -50,3 +50,5 @@ We implemented the DaQua as a mobile-based application using the Flutter framewo
 ## Contact
 
 Subhanshu Arya - subhanshu20101@iiitnr.edu.in
+
+Harsh Pandey - harsh20101@iiitnr.edu.in
